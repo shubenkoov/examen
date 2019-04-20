@@ -24,9 +24,7 @@
 					<div class="column column_phone">Номер телефона</div>
 				</div>
 			</div>
-			<div class="content">
-				
-			</div>
+			<div class="content"></div>
 		</div>		
 	</div>
 
